@@ -1,4 +1,0 @@
-pyku
-====
-
-Bitcoin application framework

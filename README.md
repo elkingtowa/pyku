@@ -1,4 +1,4 @@
-PyCu
+PyKu
 
 Bitcoin application framework
 
